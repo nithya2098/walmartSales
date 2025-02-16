@@ -1,0 +1,12 @@
+Walmart Sales Prediction Model
+
+Objective: Developed and deployed machine learning models to forecast weekly sales across multiple Walmart stores, enhancing inventory and stock arrangement strategies.
+Data Exploration & Preprocessing: Cleaned and transformed raw sales data, addressing missing values, outliers, and multicollinearity. Applied feature engineering to improve model performance by incorporating variables like holidays, seasonal trends, and promotions.
+Model Development: Utilized a variety of models including Decision Tree Regressor, Random Forest, XGBoost, and Ridge Regression to predict weekly sales.
+Feature Importance: Conducted in-depth feature importance analysis to identify key drivers of sales fluctuations, ensuring better interpretability of model predictions.
+Model Optimization: Tuned model hyperparameters using cross-validation to ensure optimal accuracy and prevent overfitting.
+Evaluation & Insights:
+Achieved high prediction accuracy (R² ~0.95) with the XGBoost model, significantly improving forecast accuracy.
+Compared and evaluated multiple models using metrics like R², Mean Squared Error (MSE), and Root Mean Squared Error (RMSE) to determine the best-fit model for future predictions.
+Provided actionable insights that helped in improving stock allocation, reducing understocking and overstocking issues, and optimizing investments.
+Impact: This predictive model enabled better resource planning for Walmart stores, resulting in improved revenue generation and optimized stock management.
